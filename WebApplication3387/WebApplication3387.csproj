@@ -72,6 +72,9 @@
     <Content Include="WebForm1387.aspx" />
     <Content Include="WebForm2387.aspx" />
     <Content Include="WebForm3387.aspx" />
+    <Content Include="WebForm4387.aspx" />
+    <Content Include="WebForm5387.aspx" />
+    <Content Include="WebForm6387.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
@@ -98,6 +101,27 @@
     </Compile>
     <Compile Include="WebForm3387.aspx.designer.cs">
       <DependentUpon>WebForm3387.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm4387.aspx.cs">
+      <DependentUpon>WebForm4387.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm4387.aspx.designer.cs">
+      <DependentUpon>WebForm4387.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm5387.aspx.cs">
+      <DependentUpon>WebForm5387.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm5387.aspx.designer.cs">
+      <DependentUpon>WebForm5387.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm6387.aspx.cs">
+      <DependentUpon>WebForm6387.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm6387.aspx.designer.cs">
+      <DependentUpon>WebForm6387.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
