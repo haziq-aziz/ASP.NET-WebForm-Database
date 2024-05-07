@@ -68,6 +68,21 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="Images\1.png" />
+    <Content Include="Images\10.png" />
+    <Content Include="Images\11.png" />
+    <Content Include="Images\12.png" />
+    <Content Include="Images\13.png" />
+    <Content Include="Images\14.png" />
+    <Content Include="Images\15.png" />
+    <Content Include="Images\2.png" />
+    <Content Include="Images\3.png" />
+    <Content Include="Images\4.png" />
+    <Content Include="Images\5.png" />
+    <Content Include="Images\6.png" />
+    <Content Include="Images\7.png" />
+    <Content Include="Images\8.png" />
+    <Content Include="Images\9.png" />
     <Content Include="Web.config" />
     <Content Include="WebForm1387.aspx" />
     <Content Include="WebForm2387.aspx" />
@@ -75,6 +90,8 @@
     <Content Include="WebForm4387.aspx" />
     <Content Include="WebForm5387.aspx" />
     <Content Include="WebForm6387.aspx" />
+    <Content Include="WebForm7387.aspx" />
+    <Content Include="WebForm8387.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
@@ -122,6 +139,20 @@
     </Compile>
     <Compile Include="WebForm6387.aspx.designer.cs">
       <DependentUpon>WebForm6387.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm7387.aspx.cs">
+      <DependentUpon>WebForm7387.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm7387.aspx.designer.cs">
+      <DependentUpon>WebForm7387.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm8387.aspx.cs">
+      <DependentUpon>WebForm8387.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm8387.aspx.designer.cs">
+      <DependentUpon>WebForm8387.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
