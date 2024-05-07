@@ -92,6 +92,7 @@
     <Content Include="WebForm6387.aspx" />
     <Content Include="WebForm7387.aspx" />
     <Content Include="WebForm8387.aspx" />
+    <Content Include="WebForm9387.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
@@ -153,6 +154,13 @@
     </Compile>
     <Compile Include="WebForm8387.aspx.designer.cs">
       <DependentUpon>WebForm8387.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm9387.aspx.cs">
+      <DependentUpon>WebForm9387.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm9387.aspx.designer.cs">
+      <DependentUpon>WebForm9387.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
